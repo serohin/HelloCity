@@ -7,7 +7,6 @@ import org.junit.Test;
 import java.time.Instant;
 import java.time.ZoneId;
 import java.time.ZonedDateTime;
-import java.util.Locale;
 
 import static org.junit.Assert.assertEquals;
 
@@ -32,13 +31,7 @@ public class HelloCityServiceTest {
 
     @Test
     public void getMessageHelloCity() throws Exception {
-        String expectedMsg;
-        if(service.getBundle().getLocale().equals(Locale.ENGLISH)){
-            expectedMsg ="Good night,";
-        }else{
-            expectedMsg ="Доброй ночи,";
-        }
-        assertEquals( expectedMsg ,service.getBundle().getString("night"));
+        assertEquals( "Доброй ночи," ,service.getBundle().getString("night"));
     }
 
     @Test
