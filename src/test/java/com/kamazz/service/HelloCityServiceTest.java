@@ -11,12 +11,10 @@ import java.util.Locale;
 
 import static org.junit.Assert.assertEquals;
 
-/**
- * Created by kamazz on 11.10.17.
- */
+
 public class HelloCityServiceTest {
 
-    HelloCityService service;
+    private HelloCityService service;
 
     @Before
     public void setUp() throws Exception {
