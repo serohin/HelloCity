@@ -29,10 +29,19 @@ public class HelloCityServiceTest {
 
     }
 
-//    @Test
-//    public void getMessageHelloCity() throws Exception {
-//        assertEquals( "Доброй ночи," ,service.getBundle().getString("night"));
-//    }
+    @Test
+    public void getMessageHelloCity() throws Exception {
+        String expectedMsg;
+        String defaultLocale = service.getBundle().getLocale().toString();
+        String periodDay = "night";
+
+        if (defaultLocale.equals("ru_RU")) {
+            expectedMsg = "Доброй ночи,";
+        } else {
+            expectedMsg = "Good night,";
+        }
+        assertEquals(expectedMsg, service.getBundle().getString(periodDay));
+    }
 
     @Test
     public void getNameOfDayPeriod() throws Exception {
