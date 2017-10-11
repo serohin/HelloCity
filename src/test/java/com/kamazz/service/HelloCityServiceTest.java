@@ -29,10 +29,10 @@ public class HelloCityServiceTest {
 
     }
 
-    @Test
-    public void getMessageHelloCity() throws Exception {
-        assertEquals( "Доброй ночи," ,service.getBundle().getString("night"));
-    }
+//    @Test
+//    public void getMessageHelloCity() throws Exception {
+//        assertEquals( "Доброй ночи," ,service.getBundle().getString("night"));
+//    }
 
     @Test
     public void getNameOfDayPeriod() throws Exception {
