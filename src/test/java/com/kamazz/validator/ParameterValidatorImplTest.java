@@ -32,8 +32,12 @@ public class ParameterValidatorImplTest {
                 {new String[]{"Dnipro", "Europe/Kiev"}},
                 {new String[]{"Tokyo", "Asia/Tokyo"}},
                 {new String[]{"Berlin"}},
-                {new String[]{"Los", "Angeles"}},
                 {new String[]{"New", "York","America/New_York"}},
+                {new String[]{"Los", "Angeles"}},
+                {new String[]{"Los Angeles"}},
+                {new String[]{"San Carlos de Bariloche"}},
+                {new String[]{"Bo"}},
+                {new String[]{"Dnipro", "EET"}},
         });
     }
 

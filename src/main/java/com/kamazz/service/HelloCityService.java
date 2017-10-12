@@ -27,19 +27,19 @@ public class HelloCityService {
     private List<String> zoneIdList;
     private ResourceBundle bundle;
 
-    public HelloCityService(String[] args) {
+    public HelloCityService(String[] arg) {
         this.bundle = ResourceBundle.getBundle(FILE_MESSAGE_PROPERTY, Locale.getDefault());
         this.zoneIdList = new ArrayList(ZoneId.getAvailableZoneIds());
-        if (args.length == 1) {
-            this.setCityName(args[INDEX_FIRST_ELEM_IN_ARRAY]);
+        if (arg.length == 1) {
+            this.setCityName(arg[INDEX_FIRST_ELEM_IN_ARRAY]);
             this.setIdTimeZone(this.getTimeZoneByCityName());
         } else {
-            String lastElemArray = args[args.length - 1];
-            if (lastElemArray.contains("/") & this.zoneIdList.contains(lastElemArray)) {
+            String lastElemArray = arg[arg.length - 1];
+            if ((lastElemArray.contains("/") & this.zoneIdList.contains(lastElemArray)|| (this.zoneIdList.contains(lastElemArray)))) {
                 this.setIdTimeZone(lastElemArray);
-                this.setCityName(this.getCityNameFromArgs(args, INDEX_LAST_ELEM_IN_ARRAY));
+                this.setCityName(this.getCityNameFromArgs(arg, INDEX_LAST_ELEM_IN_ARRAY));
             } else {
-                this.setCityName(this.getCityNameFromArgs(args));
+                this.setCityName(this.getCityNameFromArgs(arg));
                 this.setIdTimeZone(this.getTimeZoneByCityName());
             }
         }
