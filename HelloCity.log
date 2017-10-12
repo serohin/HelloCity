@@ -1,0 +1,894 @@
+2017-10-11 20:33:48 INFO  HelloCity:18 - The argument's validator is created.
+2017-10-11 20:33:48 INFO  ParameterValidatorImpl:70 - The length arguments were validated. Errors = 0
+2017-10-11 20:33:48 INFO  ParameterValidatorImpl:24 - Length arguments successfully validated.
+2017-10-11 20:33:48 INFO  ParameterValidatorImpl:48 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-11 20:33:48 INFO  ParameterValidatorImpl:27 - The errorMap was returned.
+2017-10-11 20:33:48 INFO  HelloCity:20 - The errorMap was created.
+2017-10-11 20:33:48 INFO  HelloCity:23 - Validation is successful - the error map is empty.
+2017-10-11 20:33:48 INFO  HelloCity:25 - HelloCityService object was created : cityNname = Dnepr timeZone = GMT
+2017-10-11 20:33:48 INFO  HelloCity:27 - The final message was displayed.
+2017-10-11 20:34:23 INFO  ParameterValidatorImpl:70 - The length arguments were validated. Errors = 0
+2017-10-11 20:34:23 INFO  ParameterValidatorImpl:24 - Length arguments successfully validated.
+2017-10-11 20:34:23 INFO  ParameterValidatorImpl:48 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-11 20:34:23 INFO  ParameterValidatorImpl:27 - The errorMap was returned.
+2017-10-11 20:34:23 INFO  ParameterValidatorImpl:70 - The length arguments were validated. Errors = 0
+2017-10-11 20:34:23 INFO  ParameterValidatorImpl:24 - Length arguments successfully validated.
+2017-10-11 20:34:23 INFO  ParameterValidatorImpl:48 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-11 20:34:23 INFO  ParameterValidatorImpl:27 - The errorMap was returned.
+2017-10-11 20:34:23 INFO  ParameterValidatorImpl:70 - The length arguments were validated. Errors = 0
+2017-10-11 20:34:23 INFO  ParameterValidatorImpl:24 - Length arguments successfully validated.
+2017-10-11 20:34:23 INFO  ParameterValidatorImpl:48 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-11 20:34:23 INFO  ParameterValidatorImpl:27 - The errorMap was returned.
+2017-10-11 20:34:23 INFO  ParameterValidatorImpl:70 - The length arguments were validated. Errors = 0
+2017-10-11 20:34:23 INFO  ParameterValidatorImpl:24 - Length arguments successfully validated.
+2017-10-11 20:34:23 INFO  ParameterValidatorImpl:48 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-11 20:34:23 INFO  ParameterValidatorImpl:27 - The errorMap was returned.
+2017-10-11 20:34:23 INFO  ParameterValidatorImpl:70 - The length arguments were validated. Errors = 0
+2017-10-11 20:34:23 INFO  ParameterValidatorImpl:24 - Length arguments successfully validated.
+2017-10-11 20:34:23 INFO  ParameterValidatorImpl:48 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-11 20:34:23 INFO  ParameterValidatorImpl:27 - The errorMap was returned.
+2017-10-11 20:36:04 INFO  ParameterValidatorImpl:70 - The length arguments were validated. Errors = 0
+2017-10-11 20:36:04 INFO  ParameterValidatorImpl:24 - Length arguments successfully validated.
+2017-10-11 20:36:04 INFO  ParameterValidatorImpl:48 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-11 20:36:04 INFO  ParameterValidatorImpl:27 - The errorMap was returned.
+2017-10-11 20:36:04 INFO  ParameterValidatorImpl:70 - The length arguments were validated. Errors = 0
+2017-10-11 20:36:04 INFO  ParameterValidatorImpl:24 - Length arguments successfully validated.
+2017-10-11 20:36:04 INFO  ParameterValidatorImpl:48 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-11 20:36:04 INFO  ParameterValidatorImpl:27 - The errorMap was returned.
+2017-10-11 20:36:04 INFO  ParameterValidatorImpl:70 - The length arguments were validated. Errors = 0
+2017-10-11 20:36:04 INFO  ParameterValidatorImpl:24 - Length arguments successfully validated.
+2017-10-11 20:36:04 INFO  ParameterValidatorImpl:48 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-11 20:36:04 INFO  ParameterValidatorImpl:27 - The errorMap was returned.
+2017-10-11 20:36:04 INFO  ParameterValidatorImpl:70 - The length arguments were validated. Errors = 0
+2017-10-11 20:36:04 INFO  ParameterValidatorImpl:24 - Length arguments successfully validated.
+2017-10-11 20:36:04 INFO  ParameterValidatorImpl:48 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-11 20:36:04 INFO  ParameterValidatorImpl:27 - The errorMap was returned.
+2017-10-11 20:36:04 INFO  ParameterValidatorImpl:70 - The length arguments were validated. Errors = 0
+2017-10-11 20:36:04 INFO  ParameterValidatorImpl:24 - Length arguments successfully validated.
+2017-10-11 20:36:04 INFO  ParameterValidatorImpl:48 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-11 20:36:04 INFO  ParameterValidatorImpl:27 - The errorMap was returned.
+2017-10-12 15:16:15 INFO  ParameterValidatorImpl:70 - The length arguments were validated. Errors = 0
+2017-10-12 15:16:15 INFO  ParameterValidatorImpl:24 - Length arguments successfully validated.
+2017-10-12 15:16:15 INFO  ParameterValidatorImpl:48 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-12 15:16:15 INFO  ParameterValidatorImpl:27 - The errorMap was returned.
+2017-10-12 15:16:15 INFO  ParameterValidatorImpl:70 - The length arguments were validated. Errors = 0
+2017-10-12 15:16:15 INFO  ParameterValidatorImpl:24 - Length arguments successfully validated.
+2017-10-12 15:16:15 INFO  ParameterValidatorImpl:48 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-12 15:16:15 INFO  ParameterValidatorImpl:27 - The errorMap was returned.
+2017-10-12 15:16:15 INFO  ParameterValidatorImpl:70 - The length arguments were validated. Errors = 0
+2017-10-12 15:16:15 INFO  ParameterValidatorImpl:24 - Length arguments successfully validated.
+2017-10-12 15:16:15 INFO  ParameterValidatorImpl:48 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-12 15:16:15 INFO  ParameterValidatorImpl:27 - The errorMap was returned.
+2017-10-12 15:16:15 INFO  ParameterValidatorImpl:70 - The length arguments were validated. Errors = 0
+2017-10-12 15:16:15 INFO  ParameterValidatorImpl:24 - Length arguments successfully validated.
+2017-10-12 15:16:15 INFO  ParameterValidatorImpl:48 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-12 15:16:15 INFO  ParameterValidatorImpl:27 - The errorMap was returned.
+2017-10-12 15:16:15 INFO  ParameterValidatorImpl:70 - The length arguments were validated. Errors = 0
+2017-10-12 15:16:15 INFO  ParameterValidatorImpl:24 - Length arguments successfully validated.
+2017-10-12 15:16:15 INFO  ParameterValidatorImpl:48 - The arguments are checked for compliance with the regular expression. Errors = 1
+2017-10-12 15:16:15 INFO  ParameterValidatorImpl:27 - The errorMap was returned.
+2017-10-12 15:16:15 INFO  ParameterValidatorImpl:70 - The length arguments were validated. Errors = 0
+2017-10-12 15:16:15 INFO  ParameterValidatorImpl:24 - Length arguments successfully validated.
+2017-10-12 15:16:15 INFO  ParameterValidatorImpl:48 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-12 15:16:15 INFO  ParameterValidatorImpl:27 - The errorMap was returned.
+2017-10-12 15:16:56 INFO  ParameterValidatorImpl:70 - The length arguments were validated. Errors = 0
+2017-10-12 15:16:56 INFO  ParameterValidatorImpl:24 - Length arguments successfully validated.
+2017-10-12 15:16:56 INFO  ParameterValidatorImpl:48 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-12 15:16:56 INFO  ParameterValidatorImpl:27 - The errorMap was returned.
+2017-10-12 15:16:56 INFO  ParameterValidatorImpl:70 - The length arguments were validated. Errors = 0
+2017-10-12 15:16:56 INFO  ParameterValidatorImpl:24 - Length arguments successfully validated.
+2017-10-12 15:16:56 INFO  ParameterValidatorImpl:48 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-12 15:16:56 INFO  ParameterValidatorImpl:27 - The errorMap was returned.
+2017-10-12 15:16:56 INFO  ParameterValidatorImpl:70 - The length arguments were validated. Errors = 0
+2017-10-12 15:16:56 INFO  ParameterValidatorImpl:24 - Length arguments successfully validated.
+2017-10-12 15:16:56 INFO  ParameterValidatorImpl:48 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-12 15:16:56 INFO  ParameterValidatorImpl:27 - The errorMap was returned.
+2017-10-12 15:16:56 INFO  ParameterValidatorImpl:70 - The length arguments were validated. Errors = 0
+2017-10-12 15:16:56 INFO  ParameterValidatorImpl:24 - Length arguments successfully validated.
+2017-10-12 15:16:56 INFO  ParameterValidatorImpl:48 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-12 15:16:56 INFO  ParameterValidatorImpl:27 - The errorMap was returned.
+2017-10-12 15:16:56 INFO  ParameterValidatorImpl:70 - The length arguments were validated. Errors = 0
+2017-10-12 15:16:56 INFO  ParameterValidatorImpl:24 - Length arguments successfully validated.
+2017-10-12 15:16:56 INFO  ParameterValidatorImpl:48 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-12 15:16:56 INFO  ParameterValidatorImpl:27 - The errorMap was returned.
+2017-10-12 15:17:25 INFO  HelloCity:18 - The argument's validator is created.
+2017-10-12 15:17:25 INFO  ParameterValidatorImpl:70 - The length arguments were validated. Errors = 0
+2017-10-12 15:17:25 INFO  ParameterValidatorImpl:24 - Length arguments successfully validated.
+2017-10-12 15:17:25 INFO  ParameterValidatorImpl:48 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-12 15:17:25 INFO  ParameterValidatorImpl:27 - The errorMap was returned.
+2017-10-12 15:17:25 INFO  HelloCity:20 - The errorMap was created.
+2017-10-12 15:17:25 INFO  HelloCity:23 - Validation is successful - the error map is empty.
+2017-10-12 15:17:25 INFO  HelloCity:25 - HelloCityService object was created : cityNname = Dnepr timeZone = GMT
+2017-10-12 15:17:25 INFO  HelloCity:27 - The final message was displayed.
+2017-10-12 15:17:48 INFO  HelloCity:18 - The argument's validator is created.
+2017-10-12 15:17:48 INFO  ParameterValidatorImpl:70 - The length arguments were validated. Errors = 0
+2017-10-12 15:17:48 INFO  ParameterValidatorImpl:24 - Length arguments successfully validated.
+2017-10-12 15:17:48 INFO  ParameterValidatorImpl:48 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-12 15:17:48 INFO  ParameterValidatorImpl:27 - The errorMap was returned.
+2017-10-12 15:17:48 INFO  HelloCity:20 - The errorMap was created.
+2017-10-12 15:17:48 INFO  HelloCity:23 - Validation is successful - the error map is empty.
+2017-10-12 15:17:48 INFO  HelloCity:25 - HelloCityService object was created : cityNname = Los Angeles timeZone = America/Los_Angeles
+2017-10-12 15:17:49 INFO  HelloCity:27 - The final message was displayed.
+2017-10-12 15:20:05 INFO  HelloCity:18 - The argument's validator is created.
+2017-10-12 15:20:05 INFO  ParameterValidatorImpl:70 - The length arguments were validated. Errors = 0
+2017-10-12 15:20:05 INFO  ParameterValidatorImpl:24 - Length arguments successfully validated.
+2017-10-12 15:20:05 INFO  ParameterValidatorImpl:48 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-12 15:20:05 INFO  ParameterValidatorImpl:27 - The errorMap was returned.
+2017-10-12 15:20:05 INFO  HelloCity:20 - The errorMap was created.
+2017-10-12 15:20:05 INFO  HelloCity:23 - Validation is successful - the error map is empty.
+2017-10-12 15:23:00 INFO  HelloCity:25 - HelloCityService object was created : cityNname = Los Angeles timeZone = America/Los_Angeles
+2017-10-12 15:23:00 INFO  HelloCity:27 - The final message was displayed.
+2017-10-12 15:23:22 INFO  HelloCity:18 - The argument's validator is created.
+2017-10-12 15:23:22 INFO  ParameterValidatorImpl:70 - The length arguments were validated. Errors = 0
+2017-10-12 15:23:22 INFO  ParameterValidatorImpl:24 - Length arguments successfully validated.
+2017-10-12 15:23:22 INFO  ParameterValidatorImpl:48 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-12 15:23:22 INFO  ParameterValidatorImpl:27 - The errorMap was returned.
+2017-10-12 15:23:22 INFO  HelloCity:20 - The errorMap was created.
+2017-10-12 15:23:22 INFO  HelloCity:23 - Validation is successful - the error map is empty.
+2017-10-12 15:26:33 INFO  HelloCity:25 - HelloCityService object was created : cityNname = Los Angeles timeZone = America/Los_Angeles
+2017-10-12 15:26:33 INFO  HelloCity:27 - The final message was displayed.
+2017-10-12 15:26:52 INFO  HelloCity:18 - The argument's validator is created.
+2017-10-12 15:26:52 INFO  ParameterValidatorImpl:70 - The length arguments were validated. Errors = 1
+2017-10-12 15:26:52 INFO  ParameterValidatorImpl:27 - The errorMap was returned.
+2017-10-12 15:26:52 INFO  HelloCity:20 - The errorMap was created.
+2017-10-12 15:26:52 INFO  HelloCity:30 - An error occurred during validation.errorMessage
+2017-10-12 15:46:01 INFO  HelloCity:18 - The argument's validator is created.
+2017-10-12 15:46:01 INFO  ParameterValidatorImpl:70 - The length arguments were validated. Errors = 1
+2017-10-12 15:46:01 INFO  ParameterValidatorImpl:27 - The errorMap was returned.
+2017-10-12 15:46:01 INFO  HelloCity:20 - The errorMap was created.
+2017-10-12 15:46:01 INFO  HelloCity:30 - An error occurred during validation.errorMessage
+2017-10-12 15:46:26 INFO  HelloCity:18 - The argument's validator is created.
+2017-10-12 15:49:34 INFO  HelloCity:18 - The argument's validator is created.
+2017-10-12 15:49:34 INFO  ParameterValidatorImpl:70 - The length arguments were validated. Errors = 1
+2017-10-12 15:49:34 INFO  ParameterValidatorImpl:27 - The errorMap was returned.
+2017-10-12 15:49:34 INFO  HelloCity:20 - The errorMap was created.
+2017-10-12 15:49:34 INFO  HelloCity:30 - An error occurred during validation.errorMessage
+2017-10-12 15:54:47 INFO  HelloCity:18 - The argument's validator is created.
+2017-10-12 15:54:47 INFO  ParameterValidatorImpl:71 - The length arguments were validated. Errors = 1
+2017-10-12 15:54:47 INFO  ParameterValidatorImpl:28 - The errorMap was returned.
+2017-10-12 15:54:47 INFO  HelloCity:20 - The errorMap was created.
+2017-10-12 15:54:47 INFO  HelloCity:30 - An error occurred during validation.errorMessage
+2017-10-12 15:54:55 INFO  HelloCity:18 - The argument's validator is created.
+2017-10-12 16:02:03 INFO  HelloCity:18 - The argument's validator is created.
+2017-10-12 16:02:03 INFO  ParameterValidatorImpl:70 - The length arguments were validated. Errors = 0
+2017-10-12 16:02:03 INFO  ParameterValidatorImpl:24 - Length arguments successfully validated.
+2017-10-12 16:02:03 INFO  ParameterValidatorImpl:48 - The arguments are checked for compliance with the regular expression. Errors = 1
+2017-10-12 16:02:03 INFO  ParameterValidatorImpl:27 - The errorMap was returned.
+2017-10-12 16:02:03 INFO  HelloCity:20 - The errorMap was created.
+2017-10-12 16:02:03 INFO  HelloCity:30 - An error occurred during validation.errorMessage
+2017-10-12 16:02:06 INFO  ParameterValidatorImpl:? - The length arguments were validated. Errors = 1
+2017-10-12 16:02:06 INFO  ParameterValidatorImpl:? - The errorMap was returned.
+2017-10-12 16:02:06 INFO  HelloCity:20 - The errorMap was created.
+2017-10-12 16:02:06 INFO  HelloCity:30 - An error occurred during validation.errorMessage
+2017-10-12 16:02:06 INFO  ParameterValidatorImpl:71 - The length arguments were validated. Errors = 1
+2017-10-12 16:02:06 INFO  ParameterValidatorImpl:28 - The errorMap was returned.
+2017-10-12 16:02:06 INFO  HelloCity:20 - The errorMap was created.
+2017-10-12 16:02:06 INFO  HelloCity:30 - An error occurred during validation.errorMessage
+2017-10-12 16:02:10 INFO  HelloCity:18 - The argument's validator is created.
+2017-10-12 16:02:10 INFO  ParameterValidatorImpl:70 - The length arguments were validated. Errors = 0
+2017-10-12 16:02:10 INFO  ParameterValidatorImpl:24 - Length arguments successfully validated.
+2017-10-12 16:02:10 INFO  ParameterValidatorImpl:48 - The arguments are checked for compliance with the regular expression. Errors = 1
+2017-10-12 16:02:10 INFO  ParameterValidatorImpl:27 - The errorMap was returned.
+2017-10-12 16:02:10 INFO  HelloCity:20 - The errorMap was created.
+2017-10-12 16:02:10 INFO  HelloCity:30 - An error occurred during validation.errorMessage
+2017-10-12 16:59:14 INFO  HelloCity:32 - The argument's validator is created.
+2017-10-12 16:59:14 INFO  ParameterValidatorImpl:71 - The length arguments were validated. Errors = 0
+2017-10-12 16:59:14 INFO  ParameterValidatorImpl:23 - Length arguments successfully validated.
+2017-10-12 16:59:14 INFO  ParameterValidatorImpl:49 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-12 16:59:14 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 16:59:14 INFO  HelloCity:34 - The errorMap was created.
+2017-10-12 16:59:14 INFO  HelloCity:37 - Validation is successful - the error map is empty.
+2017-10-12 16:59:14 INFO  HelloCity:39 - HelloCityService object was created : cityNname = Los Angeles timeZone = America/Los_Angeles
+2017-10-12 16:59:14 INFO  HelloCity:41 - The final message was displayed.
+2017-10-12 17:01:35 INFO  ParameterValidatorImpl:71 - The length arguments were validated. Errors = 0
+2017-10-12 17:01:35 INFO  ParameterValidatorImpl:23 - Length arguments successfully validated.
+2017-10-12 17:01:35 INFO  ParameterValidatorImpl:49 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-12 17:01:35 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 17:01:35 INFO  ParameterValidatorImpl:71 - The length arguments were validated. Errors = 0
+2017-10-12 17:01:35 INFO  ParameterValidatorImpl:23 - Length arguments successfully validated.
+2017-10-12 17:01:35 INFO  ParameterValidatorImpl:49 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-12 17:01:35 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 17:01:35 INFO  ParameterValidatorImpl:71 - The length arguments were validated. Errors = 0
+2017-10-12 17:01:35 INFO  ParameterValidatorImpl:23 - Length arguments successfully validated.
+2017-10-12 17:01:35 INFO  ParameterValidatorImpl:49 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-12 17:01:35 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 17:01:35 INFO  ParameterValidatorImpl:71 - The length arguments were validated. Errors = 0
+2017-10-12 17:01:35 INFO  ParameterValidatorImpl:23 - Length arguments successfully validated.
+2017-10-12 17:01:35 INFO  ParameterValidatorImpl:49 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-12 17:01:35 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 17:01:35 INFO  ParameterValidatorImpl:71 - The length arguments were validated. Errors = 0
+2017-10-12 17:01:35 INFO  ParameterValidatorImpl:23 - Length arguments successfully validated.
+2017-10-12 17:01:35 INFO  ParameterValidatorImpl:49 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-12 17:01:35 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 17:01:35 INFO  ParameterValidatorImpl:71 - The length arguments were validated. Errors = 0
+2017-10-12 17:01:35 INFO  ParameterValidatorImpl:23 - Length arguments successfully validated.
+2017-10-12 17:01:35 INFO  ParameterValidatorImpl:49 - The arguments are checked for compliance with the regular expression. Errors = 1
+2017-10-12 17:01:35 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 17:01:35 INFO  ParameterValidatorImpl:71 - The length arguments were validated. Errors = 0
+2017-10-12 17:01:35 INFO  ParameterValidatorImpl:23 - Length arguments successfully validated.
+2017-10-12 17:01:35 INFO  ParameterValidatorImpl:49 - The arguments are checked for compliance with the regular expression. Errors = 1
+2017-10-12 17:01:35 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 17:01:35 INFO  ParameterValidatorImpl:71 - The length arguments were validated. Errors = 1
+2017-10-12 17:01:35 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 17:01:35 INFO  ParameterValidatorImpl:71 - The length arguments were validated. Errors = 0
+2017-10-12 17:01:35 INFO  ParameterValidatorImpl:23 - Length arguments successfully validated.
+2017-10-12 17:01:35 INFO  ParameterValidatorImpl:49 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-12 17:01:35 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 17:02:52 INFO  ParameterValidatorImpl:71 - The length arguments were validated. Errors = 0
+2017-10-12 17:02:52 INFO  ParameterValidatorImpl:23 - Length arguments successfully validated.
+2017-10-12 17:02:52 INFO  ParameterValidatorImpl:49 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-12 17:02:52 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 17:02:52 INFO  ParameterValidatorImpl:71 - The length arguments were validated. Errors = 0
+2017-10-12 17:02:52 INFO  ParameterValidatorImpl:23 - Length arguments successfully validated.
+2017-10-12 17:02:52 INFO  ParameterValidatorImpl:49 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-12 17:02:52 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 17:02:52 INFO  ParameterValidatorImpl:71 - The length arguments were validated. Errors = 0
+2017-10-12 17:02:52 INFO  ParameterValidatorImpl:23 - Length arguments successfully validated.
+2017-10-12 17:02:52 INFO  ParameterValidatorImpl:49 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-12 17:02:52 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 17:02:52 INFO  ParameterValidatorImpl:71 - The length arguments were validated. Errors = 0
+2017-10-12 17:02:52 INFO  ParameterValidatorImpl:23 - Length arguments successfully validated.
+2017-10-12 17:02:52 INFO  ParameterValidatorImpl:49 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-12 17:02:52 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 17:02:52 INFO  ParameterValidatorImpl:71 - The length arguments were validated. Errors = 0
+2017-10-12 17:02:52 INFO  ParameterValidatorImpl:23 - Length arguments successfully validated.
+2017-10-12 17:02:52 INFO  ParameterValidatorImpl:49 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-12 17:02:52 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 17:02:52 INFO  ParameterValidatorImpl:71 - The length arguments were validated. Errors = 0
+2017-10-12 17:02:52 INFO  ParameterValidatorImpl:23 - Length arguments successfully validated.
+2017-10-12 17:02:52 INFO  ParameterValidatorImpl:49 - The arguments are checked for compliance with the regular expression. Errors = 1
+2017-10-12 17:02:52 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 17:02:52 INFO  ParameterValidatorImpl:71 - The length arguments were validated. Errors = 0
+2017-10-12 17:02:52 INFO  ParameterValidatorImpl:23 - Length arguments successfully validated.
+2017-10-12 17:02:52 INFO  ParameterValidatorImpl:49 - The arguments are checked for compliance with the regular expression. Errors = 1
+2017-10-12 17:02:52 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 17:02:52 INFO  ParameterValidatorImpl:71 - The length arguments were validated. Errors = 1
+2017-10-12 17:02:52 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 17:02:52 INFO  ParameterValidatorImpl:71 - The length arguments were validated. Errors = 0
+2017-10-12 17:02:52 INFO  ParameterValidatorImpl:23 - Length arguments successfully validated.
+2017-10-12 17:02:52 INFO  ParameterValidatorImpl:49 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-12 17:02:52 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 17:04:23 INFO  ParameterValidatorImpl:71 - The length arguments were validated. Errors = 0
+2017-10-12 17:04:23 INFO  ParameterValidatorImpl:23 - Length arguments successfully validated.
+2017-10-12 17:04:23 INFO  ParameterValidatorImpl:49 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-12 17:04:23 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 17:04:23 INFO  ParameterValidatorImpl:71 - The length arguments were validated. Errors = 0
+2017-10-12 17:04:23 INFO  ParameterValidatorImpl:23 - Length arguments successfully validated.
+2017-10-12 17:04:23 INFO  ParameterValidatorImpl:49 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-12 17:04:23 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 17:04:23 INFO  ParameterValidatorImpl:71 - The length arguments were validated. Errors = 0
+2017-10-12 17:04:23 INFO  ParameterValidatorImpl:23 - Length arguments successfully validated.
+2017-10-12 17:04:23 INFO  ParameterValidatorImpl:49 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-12 17:04:23 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 17:04:23 INFO  ParameterValidatorImpl:71 - The length arguments were validated. Errors = 0
+2017-10-12 17:04:23 INFO  ParameterValidatorImpl:23 - Length arguments successfully validated.
+2017-10-12 17:04:23 INFO  ParameterValidatorImpl:49 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-12 17:04:23 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 17:04:23 INFO  ParameterValidatorImpl:71 - The length arguments were validated. Errors = 0
+2017-10-12 17:04:23 INFO  ParameterValidatorImpl:23 - Length arguments successfully validated.
+2017-10-12 17:04:23 INFO  ParameterValidatorImpl:49 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-12 17:04:23 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 17:04:23 INFO  ParameterValidatorImpl:71 - The length arguments were validated. Errors = 0
+2017-10-12 17:04:23 INFO  ParameterValidatorImpl:23 - Length arguments successfully validated.
+2017-10-12 17:04:23 INFO  ParameterValidatorImpl:49 - The arguments are checked for compliance with the regular expression. Errors = 1
+2017-10-12 17:04:23 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 17:04:23 INFO  ParameterValidatorImpl:71 - The length arguments were validated. Errors = 0
+2017-10-12 17:04:23 INFO  ParameterValidatorImpl:23 - Length arguments successfully validated.
+2017-10-12 17:04:23 INFO  ParameterValidatorImpl:49 - The arguments are checked for compliance with the regular expression. Errors = 1
+2017-10-12 17:04:23 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 17:04:23 INFO  ParameterValidatorImpl:71 - The length arguments were validated. Errors = 1
+2017-10-12 17:04:23 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 17:04:23 INFO  ParameterValidatorImpl:71 - The length arguments were validated. Errors = 0
+2017-10-12 17:04:23 INFO  ParameterValidatorImpl:23 - Length arguments successfully validated.
+2017-10-12 17:04:23 INFO  ParameterValidatorImpl:49 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-12 17:04:23 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 17:04:30 INFO  ParameterValidatorImpl:71 - The length arguments were validated. Errors = 0
+2017-10-12 17:04:30 INFO  ParameterValidatorImpl:23 - Length arguments successfully validated.
+2017-10-12 17:04:30 INFO  ParameterValidatorImpl:49 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-12 17:04:30 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 17:04:30 INFO  ParameterValidatorImpl:71 - The length arguments were validated. Errors = 0
+2017-10-12 17:04:30 INFO  ParameterValidatorImpl:23 - Length arguments successfully validated.
+2017-10-12 17:04:30 INFO  ParameterValidatorImpl:49 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-12 17:04:30 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 17:04:30 INFO  ParameterValidatorImpl:71 - The length arguments were validated. Errors = 0
+2017-10-12 17:04:30 INFO  ParameterValidatorImpl:23 - Length arguments successfully validated.
+2017-10-12 17:04:30 INFO  ParameterValidatorImpl:49 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-12 17:04:30 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 17:04:30 INFO  ParameterValidatorImpl:71 - The length arguments were validated. Errors = 0
+2017-10-12 17:04:30 INFO  ParameterValidatorImpl:23 - Length arguments successfully validated.
+2017-10-12 17:04:30 INFO  ParameterValidatorImpl:49 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-12 17:04:30 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 17:04:30 INFO  ParameterValidatorImpl:71 - The length arguments were validated. Errors = 0
+2017-10-12 17:04:30 INFO  ParameterValidatorImpl:23 - Length arguments successfully validated.
+2017-10-12 17:04:30 INFO  ParameterValidatorImpl:49 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-12 17:04:30 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 17:04:30 INFO  ParameterValidatorImpl:71 - The length arguments were validated. Errors = 0
+2017-10-12 17:04:30 INFO  ParameterValidatorImpl:23 - Length arguments successfully validated.
+2017-10-12 17:04:30 INFO  ParameterValidatorImpl:49 - The arguments are checked for compliance with the regular expression. Errors = 1
+2017-10-12 17:04:30 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 17:04:31 INFO  ParameterValidatorImpl:71 - The length arguments were validated. Errors = 0
+2017-10-12 17:04:31 INFO  ParameterValidatorImpl:23 - Length arguments successfully validated.
+2017-10-12 17:04:31 INFO  ParameterValidatorImpl:49 - The arguments are checked for compliance with the regular expression. Errors = 1
+2017-10-12 17:04:31 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 17:04:31 INFO  ParameterValidatorImpl:71 - The length arguments were validated. Errors = 1
+2017-10-12 17:04:31 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 17:04:31 INFO  ParameterValidatorImpl:71 - The length arguments were validated. Errors = 0
+2017-10-12 17:04:31 INFO  ParameterValidatorImpl:23 - Length arguments successfully validated.
+2017-10-12 17:04:31 INFO  ParameterValidatorImpl:49 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-12 17:04:31 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 17:04:36 INFO  HelloCity:32 - The argument's validator is created.
+2017-10-12 17:04:36 INFO  ParameterValidatorImpl:71 - The length arguments were validated. Errors = 0
+2017-10-12 17:04:36 INFO  ParameterValidatorImpl:23 - Length arguments successfully validated.
+2017-10-12 17:04:36 INFO  ParameterValidatorImpl:49 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-12 17:04:36 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 17:04:36 INFO  HelloCity:34 - The errorMap was created.
+2017-10-12 17:04:36 INFO  HelloCity:37 - Validation is successful - the error map is empty.
+2017-10-12 17:04:36 INFO  HelloCity:39 - HelloCityService object was created : cityNname = Los Angeles timeZone = America/Los_Angeles
+2017-10-12 17:04:36 INFO  HelloCity:41 - The final message was displayed.
+2017-10-12 17:04:53 INFO  HelloCity:32 - The argument's validator is created.
+2017-10-12 17:04:53 INFO  ParameterValidatorImpl:71 - The length arguments were validated. Errors = 1
+2017-10-12 17:04:53 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 17:04:53 INFO  HelloCity:34 - The errorMap was created.
+2017-10-12 17:04:53 INFO  HelloCity:44 - An error occurred during validation.errorMessage
+2017-10-12 17:05:46 INFO  HelloCity:32 - The argument's validator is created.
+2017-10-12 17:06:15 INFO  ParameterValidatorImpl:71 - The length arguments were validated. Errors = 1
+2017-10-12 17:06:15 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 17:06:15 INFO  HelloCity:34 - The errorMap was created.
+2017-10-12 17:06:15 INFO  HelloCity:44 - An error occurred during validation.errorMessage
+2017-10-12 17:06:21 INFO  HelloCity:32 - The argument's validator is created.
+2017-10-12 17:06:21 INFO  ParameterValidatorImpl:71 - The length arguments were validated. Errors = 0
+2017-10-12 17:06:21 INFO  ParameterValidatorImpl:23 - Length arguments successfully validated.
+2017-10-12 17:06:21 INFO  ParameterValidatorImpl:49 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-12 17:06:21 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 17:06:21 INFO  HelloCity:34 - The errorMap was created.
+2017-10-12 17:06:21 INFO  HelloCity:37 - Validation is successful - the error map is empty.
+2017-10-12 17:06:21 INFO  HelloCity:39 - HelloCityService object was created : cityNname = Bo timeZone = Pacific/Bougainville
+2017-10-12 17:06:21 INFO  HelloCity:41 - The final message was displayed.
+2017-10-12 17:06:42 INFO  ParameterValidatorImpl:71 - The length arguments were validated. Errors = 0
+2017-10-12 17:06:42 INFO  ParameterValidatorImpl:23 - Length arguments successfully validated.
+2017-10-12 17:06:42 INFO  ParameterValidatorImpl:49 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-12 17:06:42 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 17:06:42 INFO  ParameterValidatorImpl:71 - The length arguments were validated. Errors = 0
+2017-10-12 17:06:42 INFO  ParameterValidatorImpl:23 - Length arguments successfully validated.
+2017-10-12 17:06:42 INFO  ParameterValidatorImpl:49 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-12 17:06:42 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 17:06:42 INFO  ParameterValidatorImpl:71 - The length arguments were validated. Errors = 0
+2017-10-12 17:06:42 INFO  ParameterValidatorImpl:23 - Length arguments successfully validated.
+2017-10-12 17:06:42 INFO  ParameterValidatorImpl:49 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-12 17:06:42 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 17:06:42 INFO  ParameterValidatorImpl:71 - The length arguments were validated. Errors = 0
+2017-10-12 17:06:42 INFO  ParameterValidatorImpl:23 - Length arguments successfully validated.
+2017-10-12 17:06:42 INFO  ParameterValidatorImpl:49 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-12 17:06:42 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 17:06:42 INFO  ParameterValidatorImpl:71 - The length arguments were validated. Errors = 0
+2017-10-12 17:06:42 INFO  ParameterValidatorImpl:23 - Length arguments successfully validated.
+2017-10-12 17:06:42 INFO  ParameterValidatorImpl:49 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-12 17:06:42 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 17:06:42 INFO  ParameterValidatorImpl:71 - The length arguments were validated. Errors = 0
+2017-10-12 17:06:42 INFO  ParameterValidatorImpl:23 - Length arguments successfully validated.
+2017-10-12 17:06:42 INFO  ParameterValidatorImpl:49 - The arguments are checked for compliance with the regular expression. Errors = 1
+2017-10-12 17:06:42 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 17:06:42 INFO  ParameterValidatorImpl:71 - The length arguments were validated. Errors = 0
+2017-10-12 17:06:42 INFO  ParameterValidatorImpl:23 - Length arguments successfully validated.
+2017-10-12 17:06:42 INFO  ParameterValidatorImpl:49 - The arguments are checked for compliance with the regular expression. Errors = 1
+2017-10-12 17:06:42 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 17:06:42 INFO  ParameterValidatorImpl:71 - The length arguments were validated. Errors = 0
+2017-10-12 17:06:42 INFO  ParameterValidatorImpl:23 - Length arguments successfully validated.
+2017-10-12 17:06:42 INFO  ParameterValidatorImpl:49 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-12 17:06:42 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 17:06:42 INFO  ParameterValidatorImpl:71 - The length arguments were validated. Errors = 0
+2017-10-12 17:06:42 INFO  ParameterValidatorImpl:23 - Length arguments successfully validated.
+2017-10-12 17:06:42 INFO  ParameterValidatorImpl:49 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-12 17:06:42 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 17:07:47 INFO  ParameterValidatorImpl:71 - The length arguments were validated. Errors = 0
+2017-10-12 17:07:47 INFO  ParameterValidatorImpl:23 - Length arguments successfully validated.
+2017-10-12 17:07:47 INFO  ParameterValidatorImpl:49 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-12 17:07:47 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 17:07:47 INFO  ParameterValidatorImpl:71 - The length arguments were validated. Errors = 0
+2017-10-12 17:07:47 INFO  ParameterValidatorImpl:23 - Length arguments successfully validated.
+2017-10-12 17:07:47 INFO  ParameterValidatorImpl:49 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-12 17:07:47 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 17:07:47 INFO  ParameterValidatorImpl:71 - The length arguments were validated. Errors = 0
+2017-10-12 17:07:47 INFO  ParameterValidatorImpl:23 - Length arguments successfully validated.
+2017-10-12 17:07:47 INFO  ParameterValidatorImpl:49 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-12 17:07:47 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 17:07:47 INFO  ParameterValidatorImpl:71 - The length arguments were validated. Errors = 0
+2017-10-12 17:07:47 INFO  ParameterValidatorImpl:23 - Length arguments successfully validated.
+2017-10-12 17:07:47 INFO  ParameterValidatorImpl:49 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-12 17:07:47 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 17:07:47 INFO  ParameterValidatorImpl:71 - The length arguments were validated. Errors = 0
+2017-10-12 17:07:47 INFO  ParameterValidatorImpl:23 - Length arguments successfully validated.
+2017-10-12 17:07:47 INFO  ParameterValidatorImpl:49 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-12 17:07:47 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 17:07:47 INFO  ParameterValidatorImpl:71 - The length arguments were validated. Errors = 0
+2017-10-12 17:07:47 INFO  ParameterValidatorImpl:23 - Length arguments successfully validated.
+2017-10-12 17:07:47 INFO  ParameterValidatorImpl:49 - The arguments are checked for compliance with the regular expression. Errors = 1
+2017-10-12 17:07:47 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 17:07:47 INFO  ParameterValidatorImpl:71 - The length arguments were validated. Errors = 0
+2017-10-12 17:07:47 INFO  ParameterValidatorImpl:23 - Length arguments successfully validated.
+2017-10-12 17:07:47 INFO  ParameterValidatorImpl:49 - The arguments are checked for compliance with the regular expression. Errors = 1
+2017-10-12 17:07:47 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 17:07:47 INFO  ParameterValidatorImpl:71 - The length arguments were validated. Errors = 0
+2017-10-12 17:07:47 INFO  ParameterValidatorImpl:23 - Length arguments successfully validated.
+2017-10-12 17:07:47 INFO  ParameterValidatorImpl:49 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-12 17:07:47 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 17:07:47 INFO  ParameterValidatorImpl:71 - The length arguments were validated. Errors = 0
+2017-10-12 17:07:47 INFO  ParameterValidatorImpl:23 - Length arguments successfully validated.
+2017-10-12 17:07:47 INFO  ParameterValidatorImpl:49 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-12 17:07:47 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 17:07:51 INFO  HelloCity:32 - The argument's validator is created.
+2017-10-12 17:07:51 INFO  ParameterValidatorImpl:71 - The length arguments were validated. Errors = 0
+2017-10-12 17:07:51 INFO  ParameterValidatorImpl:23 - Length arguments successfully validated.
+2017-10-12 17:07:51 INFO  ParameterValidatorImpl:49 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-12 17:07:51 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 17:07:51 INFO  HelloCity:34 - The errorMap was created.
+2017-10-12 17:07:51 INFO  HelloCity:37 - Validation is successful - the error map is empty.
+2017-10-12 17:07:51 INFO  HelloCity:39 - HelloCityService object was created : cityNname = Bo timeZone = Pacific/Bougainville
+2017-10-12 17:07:51 INFO  HelloCity:41 - The final message was displayed.
+2017-10-12 17:08:06 INFO  HelloCity:32 - The argument's validator is created.
+2017-10-12 17:08:06 INFO  ParameterValidatorImpl:71 - The length arguments were validated. Errors = 0
+2017-10-12 17:08:06 INFO  ParameterValidatorImpl:23 - Length arguments successfully validated.
+2017-10-12 17:08:06 INFO  ParameterValidatorImpl:49 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-12 17:08:06 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 17:08:06 INFO  HelloCity:34 - The errorMap was created.
+2017-10-12 17:08:06 INFO  HelloCity:37 - Validation is successful - the error map is empty.
+2017-10-12 17:08:06 INFO  HelloCity:39 - HelloCityService object was created : cityNname = San Carlos de Bariloche timeZone = GMT
+2017-10-12 17:08:06 INFO  HelloCity:41 - The final message was displayed.
+2017-10-12 17:10:27 INFO  ParameterValidatorImpl:71 - The length arguments were validated. Errors = 0
+2017-10-12 17:10:27 INFO  ParameterValidatorImpl:23 - Length arguments successfully validated.
+2017-10-12 17:10:27 INFO  ParameterValidatorImpl:49 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-12 17:10:27 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 17:10:27 INFO  ParameterValidatorImpl:71 - The length arguments were validated. Errors = 0
+2017-10-12 17:10:27 INFO  ParameterValidatorImpl:23 - Length arguments successfully validated.
+2017-10-12 17:10:27 INFO  ParameterValidatorImpl:49 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-12 17:10:27 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 17:10:27 INFO  ParameterValidatorImpl:71 - The length arguments were validated. Errors = 0
+2017-10-12 17:10:27 INFO  ParameterValidatorImpl:23 - Length arguments successfully validated.
+2017-10-12 17:10:27 INFO  ParameterValidatorImpl:49 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-12 17:10:27 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 17:10:27 INFO  ParameterValidatorImpl:71 - The length arguments were validated. Errors = 0
+2017-10-12 17:10:27 INFO  ParameterValidatorImpl:23 - Length arguments successfully validated.
+2017-10-12 17:10:27 INFO  ParameterValidatorImpl:49 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-12 17:10:27 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 17:10:27 INFO  ParameterValidatorImpl:71 - The length arguments were validated. Errors = 0
+2017-10-12 17:10:27 INFO  ParameterValidatorImpl:23 - Length arguments successfully validated.
+2017-10-12 17:10:27 INFO  ParameterValidatorImpl:49 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-12 17:10:27 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 17:10:27 INFO  ParameterValidatorImpl:71 - The length arguments were validated. Errors = 0
+2017-10-12 17:10:27 INFO  ParameterValidatorImpl:23 - Length arguments successfully validated.
+2017-10-12 17:10:27 INFO  ParameterValidatorImpl:49 - The arguments are checked for compliance with the regular expression. Errors = 1
+2017-10-12 17:10:27 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 17:10:27 INFO  ParameterValidatorImpl:71 - The length arguments were validated. Errors = 0
+2017-10-12 17:10:27 INFO  ParameterValidatorImpl:23 - Length arguments successfully validated.
+2017-10-12 17:10:27 INFO  ParameterValidatorImpl:49 - The arguments are checked for compliance with the regular expression. Errors = 1
+2017-10-12 17:10:27 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 17:10:27 INFO  ParameterValidatorImpl:71 - The length arguments were validated. Errors = 0
+2017-10-12 17:10:27 INFO  ParameterValidatorImpl:23 - Length arguments successfully validated.
+2017-10-12 17:10:27 INFO  ParameterValidatorImpl:49 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-12 17:10:27 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 17:10:27 INFO  ParameterValidatorImpl:71 - The length arguments were validated. Errors = 0
+2017-10-12 17:10:27 INFO  ParameterValidatorImpl:23 - Length arguments successfully validated.
+2017-10-12 17:10:27 INFO  ParameterValidatorImpl:49 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-12 17:10:27 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 17:11:01 INFO  ParameterValidatorImpl:71 - The length arguments were validated. Errors = 0
+2017-10-12 17:11:01 INFO  ParameterValidatorImpl:23 - Length arguments successfully validated.
+2017-10-12 17:11:01 INFO  ParameterValidatorImpl:49 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-12 17:11:01 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 17:11:03 INFO  ParameterValidatorImpl:71 - The length arguments were validated. Errors = 0
+2017-10-12 17:11:03 INFO  ParameterValidatorImpl:23 - Length arguments successfully validated.
+2017-10-12 17:11:03 INFO  ParameterValidatorImpl:49 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-12 17:11:03 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 17:11:06 INFO  ParameterValidatorImpl:71 - The length arguments were validated. Errors = 0
+2017-10-12 17:11:06 INFO  ParameterValidatorImpl:23 - Length arguments successfully validated.
+2017-10-12 17:11:06 INFO  ParameterValidatorImpl:49 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-12 17:11:06 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 17:11:12 INFO  ParameterValidatorImpl:71 - The length arguments were validated. Errors = 0
+2017-10-12 17:11:12 INFO  ParameterValidatorImpl:23 - Length arguments successfully validated.
+2017-10-12 17:11:12 INFO  ParameterValidatorImpl:49 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-12 17:11:12 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 17:11:19 INFO  ParameterValidatorImpl:71 - The length arguments were validated. Errors = 0
+2017-10-12 17:11:19 INFO  ParameterValidatorImpl:23 - Length arguments successfully validated.
+2017-10-12 17:11:19 INFO  ParameterValidatorImpl:49 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-12 17:11:19 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 17:11:28 INFO  ParameterValidatorImpl:71 - The length arguments were validated. Errors = 0
+2017-10-12 17:11:28 INFO  ParameterValidatorImpl:23 - Length arguments successfully validated.
+2017-10-12 17:11:28 INFO  ParameterValidatorImpl:49 - The arguments are checked for compliance with the regular expression. Errors = 1
+2017-10-12 17:11:28 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 17:11:45 INFO  ParameterValidatorImpl:71 - The length arguments were validated. Errors = 0
+2017-10-12 17:11:45 INFO  ParameterValidatorImpl:23 - Length arguments successfully validated.
+2017-10-12 17:11:45 INFO  ParameterValidatorImpl:49 - The arguments are checked for compliance with the regular expression. Errors = 1
+2017-10-12 17:11:45 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 17:11:56 INFO  ParameterValidatorImpl:71 - The length arguments were validated. Errors = 0
+2017-10-12 17:11:56 INFO  ParameterValidatorImpl:23 - Length arguments successfully validated.
+2017-10-12 17:11:56 INFO  ParameterValidatorImpl:49 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-12 17:11:56 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 17:11:59 INFO  ParameterValidatorImpl:71 - The length arguments were validated. Errors = 0
+2017-10-12 17:11:59 INFO  ParameterValidatorImpl:23 - Length arguments successfully validated.
+2017-10-12 17:11:59 INFO  ParameterValidatorImpl:49 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-12 17:11:59 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 17:12:24 INFO  ParameterValidatorImpl:71 - The length arguments were validated. Errors = 0
+2017-10-12 17:12:24 INFO  ParameterValidatorImpl:23 - Length arguments successfully validated.
+2017-10-12 17:12:24 INFO  ParameterValidatorImpl:49 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-12 17:12:24 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 17:12:24 INFO  ParameterValidatorImpl:71 - The length arguments were validated. Errors = 0
+2017-10-12 17:12:24 INFO  ParameterValidatorImpl:23 - Length arguments successfully validated.
+2017-10-12 17:12:24 INFO  ParameterValidatorImpl:49 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-12 17:12:24 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 17:12:24 INFO  ParameterValidatorImpl:71 - The length arguments were validated. Errors = 0
+2017-10-12 17:12:24 INFO  ParameterValidatorImpl:23 - Length arguments successfully validated.
+2017-10-12 17:12:24 INFO  ParameterValidatorImpl:49 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-12 17:12:24 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 17:12:24 INFO  ParameterValidatorImpl:71 - The length arguments were validated. Errors = 0
+2017-10-12 17:12:24 INFO  ParameterValidatorImpl:23 - Length arguments successfully validated.
+2017-10-12 17:12:24 INFO  ParameterValidatorImpl:49 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-12 17:12:24 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 17:12:24 INFO  ParameterValidatorImpl:71 - The length arguments were validated. Errors = 0
+2017-10-12 17:12:24 INFO  ParameterValidatorImpl:23 - Length arguments successfully validated.
+2017-10-12 17:12:24 INFO  ParameterValidatorImpl:49 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-12 17:12:24 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 17:12:24 INFO  ParameterValidatorImpl:71 - The length arguments were validated. Errors = 0
+2017-10-12 17:12:24 INFO  ParameterValidatorImpl:23 - Length arguments successfully validated.
+2017-10-12 17:12:24 INFO  ParameterValidatorImpl:49 - The arguments are checked for compliance with the regular expression. Errors = 1
+2017-10-12 17:12:24 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 17:12:24 INFO  ParameterValidatorImpl:71 - The length arguments were validated. Errors = 0
+2017-10-12 17:12:24 INFO  ParameterValidatorImpl:23 - Length arguments successfully validated.
+2017-10-12 17:12:24 INFO  ParameterValidatorImpl:49 - The arguments are checked for compliance with the regular expression. Errors = 1
+2017-10-12 17:12:24 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 17:12:24 INFO  ParameterValidatorImpl:71 - The length arguments were validated. Errors = 0
+2017-10-12 17:12:24 INFO  ParameterValidatorImpl:23 - Length arguments successfully validated.
+2017-10-12 17:12:24 INFO  ParameterValidatorImpl:49 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-12 17:12:24 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 17:12:24 INFO  ParameterValidatorImpl:71 - The length arguments were validated. Errors = 0
+2017-10-12 17:12:24 INFO  ParameterValidatorImpl:23 - Length arguments successfully validated.
+2017-10-12 17:12:24 INFO  ParameterValidatorImpl:49 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-12 17:12:24 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 17:13:10 INFO  HelloCity:31 - The argument's validator is created.
+2017-10-12 17:13:10 INFO  ParameterValidatorImpl:71 - The length arguments were validated. Errors = 0
+2017-10-12 17:13:10 INFO  ParameterValidatorImpl:23 - Length arguments successfully validated.
+2017-10-12 17:13:10 INFO  ParameterValidatorImpl:49 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-12 17:13:10 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 17:13:10 INFO  HelloCity:33 - The errorMap was created.
+2017-10-12 17:13:10 INFO  HelloCity:36 - Validation is successful - the error map is empty.
+2017-10-12 17:13:10 INFO  HelloCity:38 - HelloCityService object was created : cityNname = San Carlos de Bariloche timeZone = GMT
+2017-10-12 17:13:10 INFO  HelloCity:40 - The final message was displayed.
+2017-10-12 17:14:06 INFO  HelloCity:31 - The argument's validator is created.
+2017-10-12 17:14:12 INFO  ParameterValidatorImpl:71 - The length arguments were validated. Errors = 0
+2017-10-12 17:14:12 INFO  ParameterValidatorImpl:23 - Length arguments successfully validated.
+2017-10-12 17:14:18 INFO  ParameterValidatorImpl:49 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-12 17:14:18 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 17:14:19 INFO  HelloCity:33 - The errorMap was created.
+2017-10-12 17:14:19 INFO  HelloCity:36 - Validation is successful - the error map is empty.
+2017-10-12 17:14:19 INFO  HelloCity:38 - HelloCityService object was created : cityNname = San Carlos de Bariloche timeZone = GMT
+2017-10-12 17:14:19 INFO  HelloCity:40 - The final message was displayed.
+2017-10-12 17:14:34 INFO  HelloCity:31 - The argument's validator is created.
+2017-10-12 17:14:40 INFO  ParameterValidatorImpl:71 - The length arguments were validated. Errors = 0
+2017-10-12 17:14:40 INFO  ParameterValidatorImpl:23 - Length arguments successfully validated.
+2017-10-12 17:15:17 INFO  ParameterValidatorImpl:49 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-12 17:15:17 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 17:15:17 INFO  HelloCity:33 - The errorMap was created.
+2017-10-12 17:15:17 INFO  HelloCity:36 - Validation is successful - the error map is empty.
+2017-10-12 17:15:17 INFO  HelloCity:38 - HelloCityService object was created : cityNname = San Carlos de Bariloche timeZone = GMT
+2017-10-12 17:15:17 INFO  HelloCity:40 - The final message was displayed.
+2017-10-12 17:18:49 INFO  ParameterValidatorImpl:71 - The length arguments were validated. Errors = 0
+2017-10-12 17:18:49 INFO  ParameterValidatorImpl:23 - Length arguments successfully validated.
+2017-10-12 17:18:49 INFO  ParameterValidatorImpl:49 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-12 17:18:49 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 17:18:49 INFO  ParameterValidatorImpl:71 - The length arguments were validated. Errors = 0
+2017-10-12 17:18:49 INFO  ParameterValidatorImpl:23 - Length arguments successfully validated.
+2017-10-12 17:18:49 INFO  ParameterValidatorImpl:49 - The arguments are checked for compliance with the regular expression. Errors = 1
+2017-10-12 17:18:49 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 17:18:49 INFO  ParameterValidatorImpl:71 - The length arguments were validated. Errors = 0
+2017-10-12 17:18:49 INFO  ParameterValidatorImpl:23 - Length arguments successfully validated.
+2017-10-12 17:18:49 INFO  ParameterValidatorImpl:49 - The arguments are checked for compliance with the regular expression. Errors = 1
+2017-10-12 17:18:49 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 17:18:49 INFO  ParameterValidatorImpl:71 - The length arguments were validated. Errors = 0
+2017-10-12 17:18:49 INFO  ParameterValidatorImpl:23 - Length arguments successfully validated.
+2017-10-12 17:18:49 INFO  ParameterValidatorImpl:49 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-12 17:18:49 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 17:18:49 INFO  ParameterValidatorImpl:71 - The length arguments were validated. Errors = 0
+2017-10-12 17:18:49 INFO  ParameterValidatorImpl:23 - Length arguments successfully validated.
+2017-10-12 17:18:49 INFO  ParameterValidatorImpl:49 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-12 17:18:49 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 17:19:22 INFO  ParameterValidatorImpl:71 - The length arguments were validated. Errors = 0
+2017-10-12 17:19:22 INFO  ParameterValidatorImpl:23 - Length arguments successfully validated.
+2017-10-12 17:19:33 INFO  ParameterValidatorImpl:49 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-12 17:19:40 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 17:20:00 INFO  ParameterValidatorImpl:71 - The length arguments were validated. Errors = 0
+2017-10-12 17:20:00 INFO  ParameterValidatorImpl:23 - Length arguments successfully validated.
+2017-10-12 17:20:24 INFO  ParameterValidatorImpl:49 - The arguments are checked for compliance with the regular expression. Errors = 1
+2017-10-12 17:20:26 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 17:21:19 INFO  ParameterValidatorImpl:71 - The length arguments were validated. Errors = 0
+2017-10-12 17:21:19 INFO  ParameterValidatorImpl:23 - Length arguments successfully validated.
+2017-10-12 17:21:19 INFO  ParameterValidatorImpl:49 - The arguments are checked for compliance with the regular expression. Errors = 1
+2017-10-12 17:21:19 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 17:21:19 INFO  ParameterValidatorImpl:71 - The length arguments were validated. Errors = 0
+2017-10-12 17:21:19 INFO  ParameterValidatorImpl:23 - Length arguments successfully validated.
+2017-10-12 17:21:19 INFO  ParameterValidatorImpl:49 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-12 17:21:19 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 17:21:19 INFO  ParameterValidatorImpl:71 - The length arguments were validated. Errors = 0
+2017-10-12 17:21:19 INFO  ParameterValidatorImpl:23 - Length arguments successfully validated.
+2017-10-12 17:21:19 INFO  ParameterValidatorImpl:49 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-12 17:21:19 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 17:22:33 INFO  ParameterValidatorImpl:71 - The length arguments were validated. Errors = 0
+2017-10-12 17:22:33 INFO  ParameterValidatorImpl:23 - Length arguments successfully validated.
+2017-10-12 17:22:33 INFO  ParameterValidatorImpl:49 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-12 17:22:33 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 17:22:33 INFO  ParameterValidatorImpl:71 - The length arguments were validated. Errors = 0
+2017-10-12 17:22:33 INFO  ParameterValidatorImpl:23 - Length arguments successfully validated.
+2017-10-12 17:22:33 INFO  ParameterValidatorImpl:49 - The arguments are checked for compliance with the regular expression. Errors = 1
+2017-10-12 17:22:33 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 17:22:33 INFO  ParameterValidatorImpl:71 - The length arguments were validated. Errors = 0
+2017-10-12 17:22:33 INFO  ParameterValidatorImpl:23 - Length arguments successfully validated.
+2017-10-12 17:22:33 INFO  ParameterValidatorImpl:49 - The arguments are checked for compliance with the regular expression. Errors = 1
+2017-10-12 17:22:33 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 17:22:33 INFO  ParameterValidatorImpl:71 - The length arguments were validated. Errors = 0
+2017-10-12 17:22:33 INFO  ParameterValidatorImpl:23 - Length arguments successfully validated.
+2017-10-12 17:22:33 INFO  ParameterValidatorImpl:49 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-12 17:22:33 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 17:22:33 INFO  ParameterValidatorImpl:71 - The length arguments were validated. Errors = 0
+2017-10-12 17:22:33 INFO  ParameterValidatorImpl:23 - Length arguments successfully validated.
+2017-10-12 17:22:33 INFO  ParameterValidatorImpl:49 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-12 17:22:33 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 17:22:49 INFO  ParameterValidatorImpl:71 - The length arguments were validated. Errors = 0
+2017-10-12 17:22:49 INFO  ParameterValidatorImpl:23 - Length arguments successfully validated.
+2017-10-12 17:22:51 INFO  ParameterValidatorImpl:49 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-12 17:22:53 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 17:22:58 INFO  ParameterValidatorImpl:71 - The length arguments were validated. Errors = 0
+2017-10-12 17:22:58 INFO  ParameterValidatorImpl:23 - Length arguments successfully validated.
+2017-10-12 17:25:14 INFO  ParameterValidatorImpl:49 - The arguments are checked for compliance with the regular expression. Errors = 1
+2017-10-12 17:27:48 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 17:27:48 INFO  ParameterValidatorImpl:71 - The length arguments were validated. Errors = 0
+2017-10-12 17:27:48 INFO  ParameterValidatorImpl:23 - Length arguments successfully validated.
+2017-10-12 17:27:48 INFO  ParameterValidatorImpl:49 - The arguments are checked for compliance with the regular expression. Errors = 1
+2017-10-12 17:27:48 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 17:27:48 INFO  ParameterValidatorImpl:71 - The length arguments were validated. Errors = 0
+2017-10-12 17:27:48 INFO  ParameterValidatorImpl:23 - Length arguments successfully validated.
+2017-10-12 17:27:48 INFO  ParameterValidatorImpl:49 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-12 17:27:48 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 17:27:48 INFO  ParameterValidatorImpl:71 - The length arguments were validated. Errors = 0
+2017-10-12 17:27:48 INFO  ParameterValidatorImpl:23 - Length arguments successfully validated.
+2017-10-12 17:27:48 INFO  ParameterValidatorImpl:49 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-12 17:27:48 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 17:27:58 INFO  ParameterValidatorImpl:71 - The length arguments were validated. Errors = 0
+2017-10-12 17:27:58 INFO  ParameterValidatorImpl:23 - Length arguments successfully validated.
+2017-10-12 17:27:59 INFO  ParameterValidatorImpl:49 - The arguments are checked for compliance with the regular expression. Errors = 1
+2017-10-12 17:27:59 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 17:28:10 INFO  ParameterValidatorImpl:71 - The length arguments were validated. Errors = 0
+2017-10-12 17:28:10 INFO  ParameterValidatorImpl:23 - Length arguments successfully validated.
+2017-10-12 17:31:04 INFO  ParameterValidatorImpl:49 - The arguments are checked for compliance with the regular expression. Errors = 1
+2017-10-12 17:31:09 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 17:31:13 INFO  ParameterValidatorImpl:71 - The length arguments were validated. Errors = 0
+2017-10-12 17:31:13 INFO  ParameterValidatorImpl:23 - Length arguments successfully validated.
+2017-10-12 17:31:17 INFO  ParameterValidatorImpl:49 - The arguments are checked for compliance with the regular expression. Errors = 1
+2017-10-12 17:31:59 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 17:31:59 INFO  ParameterValidatorImpl:71 - The length arguments were validated. Errors = 0
+2017-10-12 17:31:59 INFO  ParameterValidatorImpl:23 - Length arguments successfully validated.
+2017-10-12 17:31:59 INFO  ParameterValidatorImpl:49 - The arguments are checked for compliance with the regular expression. Errors = 1
+2017-10-12 17:31:59 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 17:31:59 INFO  ParameterValidatorImpl:71 - The length arguments were validated. Errors = 0
+2017-10-12 17:31:59 INFO  ParameterValidatorImpl:23 - Length arguments successfully validated.
+2017-10-12 17:31:59 INFO  ParameterValidatorImpl:49 - The arguments are checked for compliance with the regular expression. Errors = 1
+2017-10-12 17:31:59 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 17:32:05 INFO  ParameterValidatorImpl:71 - The length arguments were validated. Errors = 0
+2017-10-12 17:32:05 INFO  ParameterValidatorImpl:23 - Length arguments successfully validated.
+2017-10-12 17:32:06 INFO  ParameterValidatorImpl:49 - The arguments are checked for compliance with the regular expression. Errors = 1
+2017-10-12 17:32:06 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 17:32:07 INFO  ParameterValidatorImpl:71 - The length arguments were validated. Errors = 0
+2017-10-12 17:32:07 INFO  ParameterValidatorImpl:23 - Length arguments successfully validated.
+2017-10-12 17:32:12 INFO  ParameterValidatorImpl:49 - The arguments are checked for compliance with the regular expression. Errors = 1
+2017-10-12 17:32:35 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 17:32:35 INFO  ParameterValidatorImpl:71 - The length arguments were validated. Errors = 0
+2017-10-12 17:32:35 INFO  ParameterValidatorImpl:23 - Length arguments successfully validated.
+2017-10-12 17:32:35 INFO  ParameterValidatorImpl:49 - The arguments are checked for compliance with the regular expression. Errors = 1
+2017-10-12 17:32:35 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 17:32:35 INFO  ParameterValidatorImpl:71 - The length arguments were validated. Errors = 0
+2017-10-12 17:32:35 INFO  ParameterValidatorImpl:23 - Length arguments successfully validated.
+2017-10-12 17:32:35 INFO  ParameterValidatorImpl:49 - The arguments are checked for compliance with the regular expression. Errors = 1
+2017-10-12 17:32:35 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 17:32:35 INFO  ParameterValidatorImpl:71 - The length arguments were validated. Errors = 0
+2017-10-12 17:32:35 INFO  ParameterValidatorImpl:23 - Length arguments successfully validated.
+2017-10-12 17:32:35 INFO  ParameterValidatorImpl:49 - The arguments are checked for compliance with the regular expression. Errors = 1
+2017-10-12 17:32:35 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 17:32:40 INFO  ParameterValidatorImpl:72 - The length arguments were validated. Errors = 0
+2017-10-12 17:32:40 INFO  ParameterValidatorImpl:24 - Length arguments successfully validated.
+2017-10-12 17:32:40 INFO  ParameterValidatorImpl:50 - The arguments are checked for compliance with the regular expression. Errors = 1
+2017-10-12 17:32:40 INFO  ParameterValidatorImpl:27 - The errorMap was returned.
+2017-10-12 17:32:40 INFO  ParameterValidatorImpl:72 - The length arguments were validated. Errors = 0
+2017-10-12 17:32:40 INFO  ParameterValidatorImpl:24 - Length arguments successfully validated.
+2017-10-12 17:32:40 INFO  ParameterValidatorImpl:50 - The arguments are checked for compliance with the regular expression. Errors = 1
+2017-10-12 17:32:40 INFO  ParameterValidatorImpl:27 - The errorMap was returned.
+2017-10-12 17:32:40 INFO  ParameterValidatorImpl:72 - The length arguments were validated. Errors = 0
+2017-10-12 17:32:40 INFO  ParameterValidatorImpl:24 - Length arguments successfully validated.
+2017-10-12 17:32:40 INFO  ParameterValidatorImpl:50 - The arguments are checked for compliance with the regular expression. Errors = 1
+2017-10-12 17:32:40 INFO  ParameterValidatorImpl:27 - The errorMap was returned.
+2017-10-12 17:32:40 INFO  ParameterValidatorImpl:72 - The length arguments were validated. Errors = 0
+2017-10-12 17:32:40 INFO  ParameterValidatorImpl:24 - Length arguments successfully validated.
+2017-10-12 17:32:40 INFO  ParameterValidatorImpl:50 - The arguments are checked for compliance with the regular expression. Errors = 1
+2017-10-12 17:32:40 INFO  ParameterValidatorImpl:27 - The errorMap was returned.
+2017-10-12 17:32:40 INFO  ParameterValidatorImpl:72 - The length arguments were validated. Errors = 0
+2017-10-12 17:32:40 INFO  ParameterValidatorImpl:24 - Length arguments successfully validated.
+2017-10-12 17:32:40 INFO  ParameterValidatorImpl:50 - The arguments are checked for compliance with the regular expression. Errors = 1
+2017-10-12 17:32:40 INFO  ParameterValidatorImpl:27 - The errorMap was returned.
+2017-10-12 18:01:29 INFO  ParameterValidatorImpl:73 - The length arguments were validated. Errors = 0
+2017-10-12 18:01:29 INFO  ParameterValidatorImpl:24 - Length arguments successfully validated.
+2017-10-12 18:01:29 INFO  ParameterValidatorImpl:51 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-12 18:01:29 INFO  ParameterValidatorImpl:27 - The errorMap was returned.
+2017-10-12 18:01:29 INFO  ParameterValidatorImpl:73 - The length arguments were validated. Errors = 0
+2017-10-12 18:01:29 INFO  ParameterValidatorImpl:24 - Length arguments successfully validated.
+2017-10-12 18:01:29 INFO  ParameterValidatorImpl:51 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-12 18:01:29 INFO  ParameterValidatorImpl:27 - The errorMap was returned.
+2017-10-12 18:01:29 INFO  ParameterValidatorImpl:73 - The length arguments were validated. Errors = 0
+2017-10-12 18:01:29 INFO  ParameterValidatorImpl:24 - Length arguments successfully validated.
+2017-10-12 18:01:29 INFO  ParameterValidatorImpl:51 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-12 18:01:29 INFO  ParameterValidatorImpl:27 - The errorMap was returned.
+2017-10-12 18:01:29 INFO  ParameterValidatorImpl:73 - The length arguments were validated. Errors = 0
+2017-10-12 18:01:29 INFO  ParameterValidatorImpl:24 - Length arguments successfully validated.
+2017-10-12 18:01:29 INFO  ParameterValidatorImpl:51 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-12 18:01:29 INFO  ParameterValidatorImpl:27 - The errorMap was returned.
+2017-10-12 18:01:29 INFO  ParameterValidatorImpl:73 - The length arguments were validated. Errors = 0
+2017-10-12 18:01:29 INFO  ParameterValidatorImpl:24 - Length arguments successfully validated.
+2017-10-12 18:01:29 INFO  ParameterValidatorImpl:51 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-12 18:01:29 INFO  ParameterValidatorImpl:27 - The errorMap was returned.
+2017-10-12 18:01:47 INFO  HelloCity:27 - The argument's validator is created.
+2017-10-12 18:01:47 INFO  ParameterValidatorImpl:73 - The length arguments were validated. Errors = 0
+2017-10-12 18:01:47 INFO  ParameterValidatorImpl:24 - Length arguments successfully validated.
+2017-10-12 18:01:47 INFO  ParameterValidatorImpl:51 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-12 18:01:47 INFO  ParameterValidatorImpl:27 - The errorMap was returned.
+2017-10-12 18:01:47 INFO  HelloCity:29 - The errorMap was created.
+2017-10-12 18:01:47 INFO  HelloCity:32 - Validation is successful - the error map is empty.
+2017-10-12 18:01:48 INFO  HelloCity:34 - HelloCityService object was created : cityNname = San Carlos de Bariloche timeZone = GMT
+2017-10-12 18:01:48 INFO  HelloCity:36 - The final message was displayed.
+2017-10-12 18:02:03 INFO  HelloCity:27 - The argument's validator is created.
+2017-10-12 18:02:18 INFO  ParameterValidatorImpl:73 - The length arguments were validated. Errors = 0
+2017-10-12 18:02:18 INFO  ParameterValidatorImpl:24 - Length arguments successfully validated.
+2017-10-12 18:03:00 INFO  ParameterValidatorImpl:51 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-12 18:03:00 INFO  ParameterValidatorImpl:27 - The errorMap was returned.
+2017-10-12 18:03:23 INFO  ParameterValidatorImpl:73 - The length arguments were validated. Errors = 0
+2017-10-12 18:03:23 INFO  ParameterValidatorImpl:24 - Length arguments successfully validated.
+2017-10-12 18:03:25 INFO  ParameterValidatorImpl:51 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-12 18:03:27 INFO  ParameterValidatorImpl:27 - The errorMap was returned.
+2017-10-12 18:03:30 INFO  ParameterValidatorImpl:73 - The length arguments were validated. Errors = 0
+2017-10-12 18:03:30 INFO  ParameterValidatorImpl:24 - Length arguments successfully validated.
+2017-10-12 18:03:37 INFO  ParameterValidatorImpl:51 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-12 18:03:39 INFO  ParameterValidatorImpl:27 - The errorMap was returned.
+2017-10-12 18:03:46 INFO  ParameterValidatorImpl:73 - The length arguments were validated. Errors = 0
+2017-10-12 18:03:46 INFO  ParameterValidatorImpl:24 - Length arguments successfully validated.
+2017-10-12 18:04:43 INFO  ParameterValidatorImpl:73 - The length arguments were validated. Errors = 0
+2017-10-12 18:04:43 INFO  ParameterValidatorImpl:24 - Length arguments successfully validated.
+2017-10-12 18:04:43 INFO  ParameterValidatorImpl:51 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-12 18:04:43 INFO  ParameterValidatorImpl:27 - The errorMap was returned.
+2017-10-12 18:04:43 INFO  ParameterValidatorImpl:73 - The length arguments were validated. Errors = 0
+2017-10-12 18:04:43 INFO  ParameterValidatorImpl:24 - Length arguments successfully validated.
+2017-10-12 18:04:43 INFO  ParameterValidatorImpl:51 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-12 18:04:43 INFO  ParameterValidatorImpl:27 - The errorMap was returned.
+2017-10-12 18:04:43 INFO  ParameterValidatorImpl:73 - The length arguments were validated. Errors = 0
+2017-10-12 18:04:43 INFO  ParameterValidatorImpl:24 - Length arguments successfully validated.
+2017-10-12 18:04:43 INFO  ParameterValidatorImpl:51 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-12 18:04:43 INFO  ParameterValidatorImpl:27 - The errorMap was returned.
+2017-10-12 18:04:43 INFO  ParameterValidatorImpl:73 - The length arguments were validated. Errors = 0
+2017-10-12 18:04:43 INFO  ParameterValidatorImpl:24 - Length arguments successfully validated.
+2017-10-12 18:04:43 INFO  ParameterValidatorImpl:51 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-12 18:04:43 INFO  ParameterValidatorImpl:27 - The errorMap was returned.
+2017-10-12 18:04:44 INFO  ParameterValidatorImpl:73 - The length arguments were validated. Errors = 0
+2017-10-12 18:04:44 INFO  ParameterValidatorImpl:24 - Length arguments successfully validated.
+2017-10-12 18:04:44 INFO  ParameterValidatorImpl:51 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-12 18:04:44 INFO  ParameterValidatorImpl:27 - The errorMap was returned.
+2017-10-12 18:04:44 INFO  ParameterValidatorImpl:73 - The length arguments were validated. Errors = 0
+2017-10-12 18:04:44 INFO  ParameterValidatorImpl:24 - Length arguments successfully validated.
+2017-10-12 18:04:44 INFO  ParameterValidatorImpl:51 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-12 18:04:44 INFO  ParameterValidatorImpl:27 - The errorMap was returned.
+2017-10-12 18:04:44 INFO  ParameterValidatorImpl:73 - The length arguments were validated. Errors = 0
+2017-10-12 18:04:44 INFO  ParameterValidatorImpl:24 - Length arguments successfully validated.
+2017-10-12 18:04:44 INFO  ParameterValidatorImpl:51 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-12 18:04:44 INFO  ParameterValidatorImpl:27 - The errorMap was returned.
+2017-10-12 18:04:44 INFO  ParameterValidatorImpl:73 - The length arguments were validated. Errors = 0
+2017-10-12 18:04:44 INFO  ParameterValidatorImpl:24 - Length arguments successfully validated.
+2017-10-12 18:04:44 INFO  ParameterValidatorImpl:51 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-12 18:04:44 INFO  ParameterValidatorImpl:27 - The errorMap was returned.
+2017-10-12 18:04:44 INFO  ParameterValidatorImpl:73 - The length arguments were validated. Errors = 0
+2017-10-12 18:04:44 INFO  ParameterValidatorImpl:24 - Length arguments successfully validated.
+2017-10-12 18:04:44 INFO  ParameterValidatorImpl:51 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-12 18:04:44 INFO  ParameterValidatorImpl:27 - The errorMap was returned.
+2017-10-12 18:05:33 INFO  HelloCity:29 - The errorMap was created.
+2017-10-12 18:05:33 INFO  HelloCity:32 - Validation is successful - the error map is empty.
+2017-10-12 18:05:33 INFO  HelloCity:34 - HelloCityService object was created : cityNname = San Carlos de Bariloche timeZone = GMT
+2017-10-12 18:05:33 INFO  ParameterValidatorImpl:51 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-12 18:05:33 INFO  ParameterValidatorImpl:27 - The errorMap was returned.
+2017-10-12 18:05:33 INFO  ParameterValidatorImpl:73 - The length arguments were validated. Errors = 0
+2017-10-12 18:05:33 INFO  ParameterValidatorImpl:24 - Length arguments successfully validated.
+2017-10-12 18:05:33 INFO  ParameterValidatorImpl:51 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-12 18:05:33 INFO  ParameterValidatorImpl:27 - The errorMap was returned.
+2017-10-12 18:05:33 INFO  ParameterValidatorImpl:73 - The length arguments were validated. Errors = 0
+2017-10-12 18:05:33 INFO  ParameterValidatorImpl:24 - Length arguments successfully validated.
+2017-10-12 18:05:33 INFO  ParameterValidatorImpl:51 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-12 18:05:33 INFO  ParameterValidatorImpl:27 - The errorMap was returned.
+2017-10-12 18:14:41 INFO  HelloCity:27 - The argument's validator is created.
+2017-10-12 18:14:41 INFO  ParameterValidatorImpl:73 - The length arguments were validated. Errors = 0
+2017-10-12 18:14:41 INFO  ParameterValidatorImpl:24 - Length arguments successfully validated.
+2017-10-12 18:14:41 INFO  ParameterValidatorImpl:51 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-12 18:14:41 INFO  ParameterValidatorImpl:27 - The errorMap was returned.
+2017-10-12 18:14:41 INFO  HelloCity:29 - The errorMap was created.
+2017-10-12 18:14:41 INFO  HelloCity:32 - Validation is successful - the error map is empty.
+2017-10-12 18:14:41 INFO  HelloCity:34 - HelloCityService object was created : cityNname = San Carlos de Bariloche timeZone = GMT
+2017-10-12 18:14:41 INFO  HelloCity:36 - The final message was displayed.
+2017-10-12 18:15:06 INFO  HelloCity:27 - The argument's validator is created.
+2017-10-12 18:15:06 INFO  ParameterValidatorImpl:73 - The length arguments were validated. Errors = 0
+2017-10-12 18:15:06 INFO  ParameterValidatorImpl:24 - Length arguments successfully validated.
+2017-10-12 18:15:06 INFO  ParameterValidatorImpl:51 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-12 18:15:06 INFO  ParameterValidatorImpl:27 - The errorMap was returned.
+2017-10-12 18:15:06 INFO  HelloCity:29 - The errorMap was created.
+2017-10-12 18:15:06 INFO  HelloCity:32 - Validation is successful - the error map is empty.
+2017-10-12 18:15:06 INFO  HelloCity:34 - HelloCityService object was created : cityNname = Dnipro timeZone = EET
+2017-10-12 18:15:06 INFO  HelloCity:36 - The final message was displayed.
+2017-10-12 18:15:52 INFO  ParameterValidatorImpl:72 - The length arguments were validated. Errors = 0
+2017-10-12 18:15:52 INFO  ParameterValidatorImpl:23 - Length arguments successfully validated.
+2017-10-12 18:15:52 INFO  ParameterValidatorImpl:50 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-12 18:15:52 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 18:15:52 INFO  ParameterValidatorImpl:72 - The length arguments were validated. Errors = 0
+2017-10-12 18:15:52 INFO  ParameterValidatorImpl:23 - Length arguments successfully validated.
+2017-10-12 18:15:52 INFO  ParameterValidatorImpl:50 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-12 18:15:52 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 18:15:52 INFO  ParameterValidatorImpl:72 - The length arguments were validated. Errors = 0
+2017-10-12 18:15:52 INFO  ParameterValidatorImpl:23 - Length arguments successfully validated.
+2017-10-12 18:15:52 INFO  ParameterValidatorImpl:50 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-12 18:15:52 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 18:15:52 INFO  ParameterValidatorImpl:72 - The length arguments were validated. Errors = 0
+2017-10-12 18:15:52 INFO  ParameterValidatorImpl:23 - Length arguments successfully validated.
+2017-10-12 18:15:52 INFO  ParameterValidatorImpl:50 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-12 18:15:52 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 18:15:52 INFO  ParameterValidatorImpl:72 - The length arguments were validated. Errors = 0
+2017-10-12 18:15:52 INFO  ParameterValidatorImpl:23 - Length arguments successfully validated.
+2017-10-12 18:15:52 INFO  ParameterValidatorImpl:50 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-12 18:15:52 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 18:15:52 INFO  ParameterValidatorImpl:72 - The length arguments were validated. Errors = 0
+2017-10-12 18:15:52 INFO  ParameterValidatorImpl:23 - Length arguments successfully validated.
+2017-10-12 18:15:52 INFO  ParameterValidatorImpl:50 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-12 18:15:52 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 18:15:52 INFO  ParameterValidatorImpl:72 - The length arguments were validated. Errors = 0
+2017-10-12 18:15:52 INFO  ParameterValidatorImpl:23 - Length arguments successfully validated.
+2017-10-12 18:15:52 INFO  ParameterValidatorImpl:50 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-12 18:15:52 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 18:15:52 INFO  ParameterValidatorImpl:72 - The length arguments were validated. Errors = 0
+2017-10-12 18:15:52 INFO  ParameterValidatorImpl:23 - Length arguments successfully validated.
+2017-10-12 18:15:52 INFO  ParameterValidatorImpl:50 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-12 18:15:52 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 18:15:52 INFO  ParameterValidatorImpl:72 - The length arguments were validated. Errors = 0
+2017-10-12 18:15:52 INFO  ParameterValidatorImpl:23 - Length arguments successfully validated.
+2017-10-12 18:15:52 INFO  ParameterValidatorImpl:50 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-12 18:15:52 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 18:16:31 INFO  ParameterValidatorImpl:72 - The length arguments were validated. Errors = 0
+2017-10-12 18:16:31 INFO  ParameterValidatorImpl:23 - Length arguments successfully validated.
+2017-10-12 18:16:31 INFO  ParameterValidatorImpl:50 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-12 18:16:31 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 18:16:31 INFO  ParameterValidatorImpl:72 - The length arguments were validated. Errors = 0
+2017-10-12 18:16:31 INFO  ParameterValidatorImpl:23 - Length arguments successfully validated.
+2017-10-12 18:16:31 INFO  ParameterValidatorImpl:50 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-12 18:16:31 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 18:16:31 INFO  ParameterValidatorImpl:72 - The length arguments were validated. Errors = 0
+2017-10-12 18:16:31 INFO  ParameterValidatorImpl:23 - Length arguments successfully validated.
+2017-10-12 18:16:31 INFO  ParameterValidatorImpl:50 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-12 18:16:31 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 18:16:31 INFO  ParameterValidatorImpl:72 - The length arguments were validated. Errors = 0
+2017-10-12 18:16:31 INFO  ParameterValidatorImpl:23 - Length arguments successfully validated.
+2017-10-12 18:16:31 INFO  ParameterValidatorImpl:50 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-12 18:16:31 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 18:16:31 INFO  ParameterValidatorImpl:72 - The length arguments were validated. Errors = 0
+2017-10-12 18:16:31 INFO  ParameterValidatorImpl:23 - Length arguments successfully validated.
+2017-10-12 18:16:31 INFO  ParameterValidatorImpl:50 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-12 18:16:31 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 18:16:31 INFO  ParameterValidatorImpl:72 - The length arguments were validated. Errors = 0
+2017-10-12 18:16:31 INFO  ParameterValidatorImpl:23 - Length arguments successfully validated.
+2017-10-12 18:16:31 INFO  ParameterValidatorImpl:50 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-12 18:16:31 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 18:16:31 INFO  ParameterValidatorImpl:72 - The length arguments were validated. Errors = 0
+2017-10-12 18:16:31 INFO  ParameterValidatorImpl:23 - Length arguments successfully validated.
+2017-10-12 18:16:31 INFO  ParameterValidatorImpl:50 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-12 18:16:31 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 18:16:31 INFO  ParameterValidatorImpl:72 - The length arguments were validated. Errors = 0
+2017-10-12 18:16:31 INFO  ParameterValidatorImpl:23 - Length arguments successfully validated.
+2017-10-12 18:16:31 INFO  ParameterValidatorImpl:50 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-12 18:16:31 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
+2017-10-12 18:16:31 INFO  ParameterValidatorImpl:72 - The length arguments were validated. Errors = 0
+2017-10-12 18:16:31 INFO  ParameterValidatorImpl:23 - Length arguments successfully validated.
+2017-10-12 18:16:31 INFO  ParameterValidatorImpl:50 - The arguments are checked for compliance with the regular expression. Errors = 0
+2017-10-12 18:16:31 INFO  ParameterValidatorImpl:26 - The errorMap was returned.
