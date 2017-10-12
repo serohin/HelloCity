@@ -17,11 +17,11 @@ public class HelloCity{
     private static final Logger log = Logger.getLogger(HelloCity.class);
 
     public static void main( String[] args ){
-        List<String> li = new ArrayList(Arrays.asList(args));
-        while(li.contains(",")) {
-            li.remove(li.indexOf(","));
+        List<String> listArgs = new ArrayList(Arrays.asList(args));
+        while(listArgs.contains(",")) {
+            listArgs.remove(listArgs.indexOf(","));
         }
-        String [] arrayWithoutCommas = li.toArray(new String[li.size()]);
+        String [] arrayWithoutCommas = listArgs.toArray(new String[listArgs.size()]);
 
         ParameterValidator validatorArgs = new ParameterValidatorImpl();
         log.info("The argument's validator is created.");
